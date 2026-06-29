@@ -5,4 +5,6 @@ __pycache__/
 venv/
 .venv/
 bot.log
-group_vars/all.yml
+ansible/group_vars/all.yml
+
+ansible/group_vars/all.yml

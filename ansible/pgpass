@@ -1,0 +1,1 @@
+{{ hostvars[groups['db_master'][0]].ansible_host }}:5432:*:{{ db_repl_user }}:{{ db_repl_password }}

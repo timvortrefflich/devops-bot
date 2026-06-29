@@ -1,0 +1,13 @@
+repo_url: "https://github.com/timvortrefflich/devops-bot.git"
+repo_branch: "ansible"
+
+bot_token: "PASTE_TELEGRAM_BOT_TOKEN_HERE"
+
+db_name: "botdb"
+db_user: "botuser"
+db_password: "botpass123"
+
+db_repl_user: "replicator"
+db_repl_password: "replpass123"
+
+bot_app_dir: "/opt/devops-bot"
