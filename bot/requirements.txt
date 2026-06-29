@@ -1,3 +1,5 @@
+setuptools>=70,<81
+wheel
 python-telegram-bot==13.7
 urllib3==1.26.20
 six==1.16.0
